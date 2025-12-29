@@ -12,5 +12,5 @@ Hardware:
  - CPU: AMD Ryzen 7 5800X 8-Core Processor (3.80 GHz)
  - GPU: NVIDIA GeForce RTX 3070
  - RAM: 32GBs DDR4
- - Keyboard: Idobao x YMDK ID75
+ - Keyboard: Idobao x YMDK ID75 + Akko Cilantro Switches
  - Mouse: Razer DeathAdder V3 Pro
